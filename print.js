@@ -42,6 +42,7 @@ async function generateFileSizes(inputPath) {
   }
 }
 
+// specify the path to your image
 const contentName = 'westernwoman';
 const inputPath = `img/${contentName}-transformed.jpeg`;
 
